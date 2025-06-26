@@ -30,7 +30,7 @@
     background-color: white;
     box-shadow: var(--shadow);
     position: fixed;
-    width: 70%;
+    width: 100%;
     z-index: 1000;
     transition: all 0.3s ease;
   }
